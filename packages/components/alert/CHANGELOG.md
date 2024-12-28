@@ -1,5 +1,14 @@
 # @nextui-org/alert
 
+## 2.2.9
+
+### Patch Changes
+
+- [#4447](https://github.com/nextui-org/nextui/pull/4447) [`a83388a`](https://github.com/nextui-org/nextui/commit/a83388aaf4521f0ed8dfed99a54998156df1868b) Thanks [@wingkwong](https://github.com/wingkwong)! - mark description prop as optional (#4445)
+
+- Updated dependencies []:
+  - @nextui-org/button@2.2.8
+
 ## 2.2.8
 
 ### Patch Changes
