@@ -1,5 +1,12 @@
 # @nextui-org/form
 
+## 2.1.8
+
+### Patch Changes
+
+- Updated dependencies [[`a83388a`](https://github.com/nextui-org/nextui/commit/a83388aaf4521f0ed8dfed99a54998156df1868b)]:
+  - @nextui-org/theme@2.4.5
+
 ## 2.1.7
 
 ### Patch Changes

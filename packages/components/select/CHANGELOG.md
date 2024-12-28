@@ -1,5 +1,16 @@
 # @nextui-org/select
 
+## 2.4.9
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/form@2.1.8
+  - @nextui-org/listbox@2.3.8
+  - @nextui-org/popover@2.3.8
+  - @nextui-org/scroll-shadow@2.3.4
+  - @nextui-org/spinner@2.2.5
+
 ## 2.4.8
 
 ### Patch Changes
